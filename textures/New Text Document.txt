@@ -1,0 +1,2 @@
+var headTexture = new BABYLON.Texture("assets/head.png", scene);
+var head = new bGUI.GUIPanel("head", headTexture, null, gui);
